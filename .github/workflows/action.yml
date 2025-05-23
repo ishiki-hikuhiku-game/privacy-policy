@@ -12,6 +12,7 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         files: |-
+          privacy-policy.md
           shanons-ultimate-machine/privacy-policy.md
         title: 意識ひくひくゲーム制作同好会プライバシーポリシー
     - uses: actions/upload-pages-artifact@v3
