@@ -5,7 +5,11 @@
 一応作っておく。
 
 だが、意識が低いのでできるだけプライバシー情報などと言う面倒なものは
-収集しないようにするべきだと思ったので [このような形](https://ishiki-hikuhiku-game.github.io/privacy-policy/) になった。
+収集しないようにするべきだと思ったので [このような形](https://ishiki-hikuhiku-game.github.io/privacy-policy/shanons-ultimate-machine/) になった。
+
+androidが、アプリの名前をプライバシーポリシーに入れるべきだと主張しているので、それぞれのアプリごとに作る
+
+- [シャノンの究極のマシン](https://ishiki-hikuhiku-game.github.io/privacy-policy/shanons-ultimate-machine/)
 
 ## 執筆者
 
